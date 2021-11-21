@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Show most used languages:
+![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=这里替换成你的 GitHub ID&layout=compact&hide_border=false&langs_count=4)
 -->
+
+
+![Daaasein's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daaasein&layout=compact&hide_border=false&langs_count=4)
