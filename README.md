@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Show most used languages:
-![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=这里替换成你的 GitHub ID&layout=compact&hide_border=false&langs_count=4)
+![这里写你的昵称's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=这里替换成你的 GitHub ID&layout=compact&theme=radical&langs_count=10)
+
+Show GitHub Readme Stats:
+[![这里写你的昵称's GitHub stats](https://github-readme-stats.vercel.app/api?username=这里替换成你的 GitHub ID&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+[![Daaasein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daaasein&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Daaasein's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daaasein&layout=compact&hide_border=false&langs_count=4)
+![Daaasein's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Daaasein&layout=compact&theme=radical&langs_count=10)
